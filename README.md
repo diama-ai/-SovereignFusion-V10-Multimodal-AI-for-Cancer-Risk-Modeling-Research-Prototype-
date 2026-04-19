@@ -52,3 +52,9 @@ Learns modality reliability dynamically
 Outputs:
 Risk score
 Uncertainty estimation
+
+https://github.com/KilianDiama/sovereign_v14_core
+
+https://github.com/KilianDiama/CancerDetectionOmni-V18-ELITE
+
+https://github.com/KilianDiama/zenithtransformer
